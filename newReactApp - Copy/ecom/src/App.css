@@ -1,0 +1,230 @@
+header{
+  padding: 35px 50px;
+  background-color: yellow;
+  
+
+}
+.headerright a{
+  margin-left: 22px;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+.headerleft a{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  font-size: 28px;
+}
+
+
+
+.imgdiv{
+  margin-top: 20px;
+  height: 200px;
+  width: 70%;
+  margin-left: 15%;
+ 
+}
+.imgdiv img{
+  
+  height:200px;
+  object-fit: contain;
+}
+.imgdiv img:hover{
+  height: 150px;
+  cursor: pointer;
+}
+
+
+.pricespan{
+  
+  border-radius: 10px;
+  padding: 5px 0;
+  color: black;
+  font-weight: bold;
+}
+
+.addtocard{
+  margin-left: 5px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: solid 0.5px yellow;
+  background-color: white;
+  margin-left: 11px;
+  background-color: yellow;
+}
+.addtocard:hover{
+  background-color: green;
+  color: white;
+  border:solid 0.5px green;
+}
+
+
+.mycard{
+  height: 380px;
+  max-width: 23%;
+  
+}
+.table{
+  width: 100%;
+}
+
+
+
+
+
+
+.mycardtitle{
+  height: 80px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  font-size: 16px;
+  text-align: center;
+}
+.mycarddescription{
+  height: 50px;
+  overflow: hidden;
+}
+.slctopt{
+  font-weight: bold;
+  text-align: center;
+  height: 30px;
+  
+}
+
+.searchİnput{
+  font-weight: bold;
+  text-align: center;
+  height: 30px;
+  margin-left: 50px;
+  width: 300px;
+
+}
+
+
+
+.loadingItem{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%);
+  
+  height: 100px !important;
+  width: 100px !important;
+  align-items: center;
+}
+.basketimgtd{
+  width: 50px;
+  height: 50px;
+}
+.basketimgtd img{
+  width: 100%;
+  height: 50px;
+}
+
+.emptyBasket{
+  color: black;
+  text-align: center;
+ 
+  padding: 50px 0;
+  margin-top: 30px;
+}
+.bsktttl{
+  text-align: end;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.tblhdbskt{
+  text-align: center;
+}
+
+.countInput{
+  width: 65%;
+}
+.shoppingIcon{
+  font-size: 22px;
+}
+.aboutDiv{
+  padding: 50px 50px;
+  
+}
+.aboutText{
+  font-size: 20px;
+}
+.navbarComponents:hover{
+  color: red;
+}
+
+
+.detImg img{
+  width: 100%;
+  
+}
+.footer{
+  padding: 50px 4rem;
+  background-color: yellow;
+  margin-bottom: 0px;
+}
+.bskrow{
+  padding: 140px 0;
+}
+.detrow{
+  padding: 122px 0;
+}
+.aboutDiv{
+  padding: 200px 0;
+}
+.spandnone{
+  display: none;
+  
+}
+
+#IncrementSpan{
+  margin-top: 30px;
+  
+  color: green;
+  width: 50%;
+  
+  
+}
+
+.addproddiv{
+width: 40%;
+margin: 50px auto;
+}
+
+.addproddiv h4{
+text-align: center;
+margin: 30px 0;
+}
+
+.addproddiv button{
+  width: 100%;
+  margin-left: 0;
+}
+
+
+.addprodinput{
+  width: 100%;
+  margin-bottom: 20px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+
+.adminprodlist{
+margin: 100px 0;
+border: 1px solid black;
+padding: 0 6rem;
+
+
+}
+
+.adminprodlist h4{
+  text-align: center;
+  margin: 30px 0;
+}
+
+
